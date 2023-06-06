@@ -1,5 +1,7 @@
 # Digital Europe Labour Report
 
+![](./DigitalEuropeDashboard.png)
+
 You may ask yourself: what language do I learn to land a high-paying job in the EU?
 The goal of this report is to make a choice of a country to move for a job in IT easier.
 
