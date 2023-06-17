@@ -1,6 +1,11 @@
 # DataAnalysis
 
 Analytics projects outside working hours:
+
+- Analysis of EU countries labor markets for foreign IT specialists: [here](digital-europe)
+
+![](digital-europe/DigitalEuropeDashboard.png)
+
 - Executive Dashboard for Online retail website: [here](online_retail)
 
 ![](online_retail/Dashboard.png)
