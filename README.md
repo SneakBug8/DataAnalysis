@@ -18,6 +18,10 @@ Analytics projects outside working hours:
 
 ![](satellites/Viz.png)
 
+- Students going abroad small viz [here](studentsgoingabroad)
+
+![](studentsgoingabroad/StudentsGoingAbroad.jpg)
+
 - Product Sales Data Analysis (Kaggle dataset): [here](product_sales/product-sales-data.ipynb)
 - Prices Monitoring Analysis connected to data exported from my Scraper & Backend: [here](prices-monitoring-data.ipynb)
 
