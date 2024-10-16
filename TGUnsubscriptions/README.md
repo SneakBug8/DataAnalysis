@@ -1,0 +1,1 @@
+Calculating number of people who unsubscribed after a particular post on a Telegram channel
